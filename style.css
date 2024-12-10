@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #000;
+}
+
+.container{
+display: flex;
+align-items: center;
+justify-content: center;
+height: 100vh;
+}
+
+.container .time{
+    border-radius: 3px;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+   background: #131313;
+   padding: 20px 30px;
+   color: #fff;
+   font-family: 'sora';
+   width: 500px;
+   
+}
